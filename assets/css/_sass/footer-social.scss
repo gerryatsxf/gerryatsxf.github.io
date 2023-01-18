@@ -39,7 +39,8 @@
 .fa-envelope
 .fa-quora
 .fa-instagram
-.fa-stack-overflow {
+.fa-stack-overflow,
+.fa-youtube {
   font-size: 25px;
 }
 
@@ -146,4 +147,14 @@
   color: #f48024;
   background: #fefefe;
   border-color: #5dd1b0;
+}
+
+.rounded-social-buttons .social-button.youtube {
+  background: #ff0000;
+}
+
+.rounded-social-buttons .social-button.youtube:hover, .rounded-social-buttons .social-button.youtube:focus {
+  color: #ff0000;
+  background: #fefefe;
+  border-color: #fefefe;
 }

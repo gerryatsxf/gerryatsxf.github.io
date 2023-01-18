@@ -14,10 +14,10 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 # twitter: "#"
-linkedin: "https://www.linkedin.com/in/gerardomijares/"
-stackoverflow: "https://stackoverflow.com/users/8514632/gerardo-mijares"
-github: "https://github.com/gerarddo"
-youtube: "#"
+linkedin: "gerardomijares"
+stackoverflow: "8514632/gerardo-mijares"
+github: "gerarddo"
+youtube: "@gerardomijares6839"
 #researchgate: "#"
 #orcid: "#"
 #quora: "#"
