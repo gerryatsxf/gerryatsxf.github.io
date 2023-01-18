@@ -4,7 +4,7 @@ title: Gerardo Mijares
 description: Software Engineer
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "www.gmijares.me" #custom url to be used instead of GitHub repository
 email: gmijares@savagex.com
 
 # Pagination
