@@ -8,16 +8,15 @@ published: true
 ---
 
 
-## Welcome!
+# *Welcome!*
 
 I can help your business automate its' data input, analysis and storage needs.
 
-
-I'm a data-driven professional with 4+ years of experience in web development skilled in...
+I'm a data-driven professional with 4+ years of experience in software development skilled in...
 
 - Web engineering:  Implementation of backend design patterns for incremental development of scalable API architectures. Technical frontend development of functional user interfaces.
 
-- Data development: Analysis, input automation, storage design and read services of data.
+- Data automation: Analysis, input, storage and read services of data.
 
 - Training: Tutoring services for employee study groups on data-driven programming.
 
