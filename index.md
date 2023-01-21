@@ -8,7 +8,7 @@ published: true
 ---
 
 
-# *Welcome!*
+*Welcome!*
 
 I can help your business automate its' data input, analysis and storage needs.
 

@@ -3,7 +3,7 @@
 title: Gerardo Mijares
 description: Software Engineer
 
-baseurl: / #name of GitHub repository
+# baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: gmijares@savagex.com
 
@@ -50,12 +50,9 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
       - project6.md
+      - projectSolarEnergy.md
+      - projectGiocondaSimulation.md
 
 sass:
   sass_dir: /assets/css/_sass

@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Project 5
-description: another project
+title: Solar Energy 
+description: Solar resources data analysis featuring Pandas, Numpy and Matplotlib
 ---
-
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
