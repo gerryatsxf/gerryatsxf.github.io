@@ -24,27 +24,8 @@ I'm a data-driven professional with 4+ years of experience in software developme
 
 
 I aspire to become a technical product manager, meaning I aim to lead a full-stack team of engineers help achieve your business goals. 
-<style>
-/* a:visited {
-    color: black;
-} */
-       a:link {color: black;}      /* unvisited link */
-       a:visited {color: black;}   /* visited link */
-       a:hover {color: black;}     /* mouse over link */
-       a:active {color: black;}    /* selected link */
-  
-</style>
-<a target="_blank" style="text-decoration: none" href="https://facebook.com">
-<img style="width:100%" src="https://ghchart.rshah.org/409ba5/gerryatsxf" alt="gerryatsxf's Blue Github Chart" />
-</a>
 
-<style>
-/* a:visited {
-    color: black;
-} */
-       a:link {color: black;}      /* unvisited link */
-       a:visited {color: black;}   /* visited link */
-       a:hover {color: black;}     /* mouse over link */
-       a:active {color: black;}    /* selected link */
-  
-</style>
+
+<img style="width:100%" src="https://ghchart.rshah.org/409ba5/gerryatsxf" alt="gerryatsxf's Blue Github Chart" />
+
+
