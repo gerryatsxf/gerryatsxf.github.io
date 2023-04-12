@@ -4,7 +4,7 @@ title: Solar Energy
 description: Solar resources data analysis for electricity generation forecasts.
 ---
 
-### It's purpose is forecasting electric energy generation by photovoltaic panels.
+### Helps forecast electric energy generation by photovoltaic panels.
 
 Collection of [Jupyter notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico) that contain the reasoning and observations of the physical model used to estimate the available energy resource in solar radiation. The repository provides a thorough analysis of solar power generation with an emphasis on calculating the available solar energy resource based on provided solar irradiance data.
 
