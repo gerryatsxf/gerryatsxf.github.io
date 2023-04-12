@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Solar Energy
-description: Solar resources data analysis featuring Pandas, Numpy and Matplotlib
+description: Solar resources data analysis for electricity generation forecasts.
 ---
 
-[Solar energy notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico)
+[Solar energy notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico) for forecating generation of electricity.
 
 ============
 
