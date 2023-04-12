@@ -4,11 +4,9 @@ title: Transactions API
 description: Script-oriented API that eases out parsing of financial data. 
 ---
 
-[Script-oriented API](https://github.com/gerryatsxf/transactions-api)
+### This is an API that eases out parsing of financial data.
 
-### Eases out parsing of financial data.
-
-This is the transactions API. It communicates with YNAB to update accounts' transactions. It depends on a bank-movements file being provided in order to achieve this. At the moment this API supports Santander debit and credit files only.
+This is the [Transactions API](https://github.com/gerryatsxf/transactions-api). It communicates with YNAB to update accounts' transactions. It depends on a bank-movements file being provided in order to achieve this. At the moment this API supports Santander debit and credit files only.
 
 Featuring:
 

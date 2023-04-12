@@ -4,11 +4,9 @@ title: Solar Energy
 description: Solar resources data analysis for electricity generation forecasts.
 ---
 
-[Solar energy notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico) 
+### It's purpose is forecasting electric energy generation by photovoltaic panels.
 
-### Forecasting electric energy generation by photovoltaic panels.
-
-Collection of Jupyter notebooks that contain the reasoning and observations of the physical model used to estimate the available energy resource in solar radiation. The repository provides a thorough analysis of solar power generation with an emphasis on calculating the available solar energy resource based on provided solar irradiance data.
+Collection of [Jupyter notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico) that contain the reasoning and observations of the physical model used to estimate the available energy resource in solar radiation. The repository provides a thorough analysis of solar power generation with an emphasis on calculating the available solar energy resource based on provided solar irradiance data.
 
 The physical model used in the analysis is a generalized projection model that projects the solar irradiance onto a generalized plane. The available solar energy resource is then calculated by translating the projected irradiance into available energy per square meter. The aim is to understand how the geometric variables of the physical system affect the available energy resource for a particular solar panel installation.
 
