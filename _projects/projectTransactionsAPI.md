@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [Transactions API](https://github.com/gerryatsxf/transactions-api)
+title: Transactions API
 description: Script-oriented API that eases out parsing of financial data. Featuring Pandas, Numpy and BeautifulSoup
 ---
 
-Script-oriented API that eases out parsing of financial data. Featuring Pandas, Numpy and BeautifulSoup
+[Script-oriented API](https://github.com/gerryatsxf/transactions-api) that eases out parsing of financial data. Featuring Pandas, Numpy and BeautifulSoup
 
 ============
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: [Solar Energy](https://github.com/gerryatsxf/disponibilidad-recurso-energetico)
+title: Solar Energy
 description: Solar resources data analysis featuring Pandas, Numpy and Matplotlib
 ---
 
-Solar energy notebooks
+[Solar energy notebooks](https://github.com/gerryatsxf/disponibilidad-recurso-energetico)
 
 ============
 
