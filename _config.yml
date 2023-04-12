@@ -50,8 +50,8 @@ collections:
     output: true
     permalink: /projects/:name/
     order:
-      - project6.md
       - projectSolarEnergy.md
+      - projectTransactionsAPI.md
       - projectGiocondaSimulation.md
 
 sass:
