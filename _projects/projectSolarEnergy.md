@@ -1,141 +1,21 @@
 ---
 layout: post
-title: Solar Energy 
+title: [Solar Energy](https://github.com/gerryatsxf/disponibilidad-recurso-energetico)
 description: Solar resources data analysis featuring Pandas, Numpy and Matplotlib
 ---
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
-H1 Header
+Solar energy notebooks
+
 ============
 
-Paragraphs are separated by a blank line.
+Collection of Jupyter notebooks that contain the reasoning and observations of the physical model used to estimate the available energy resource in solar radiation. The repository provides a thorough analysis of solar power generation with an emphasis on calculating the available solar energy resource based on provided solar irradiance data.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+The physical model used in the analysis is a generalized projection model that projects the solar irradiance onto a generalized plane. The available solar energy resource is then calculated by translating the projected irradiance into available energy per square meter. The aim is to understand how the geometric variables of the physical system affect the available energy resource for a particular solar panel installation.
 
-  * this one
-  * that one
-  * the other one
+An interesting feature of the analysis is the comparison of projected irradiance for different angles of inclination on the same date. The comparison highlights the relevance of selecting the optimal angle of inclination for the solar panel installation to maximize energy production. 
 
-Note that the actual text
-content starts at 4-columns in.
+In addition to studying the effects of different angles of inclination on the projected irradiance, we can also analyze how this irradiance varies over time for a fixed angle. By comparing the projected irradiance for two different dates, we can understand how the geometry of the Earth's orbit and its orientation with respect to the sun affects the amount of irradiance received.
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+This analysis shows that even a fixed-angle solar panel will experience seasonal variations in its projected irradiance due to the Earth's orbit and orientation. Understanding these variations can help us choose the optimal angle for a fixed panel or adjust the angle of an adjustable panel to maximize energy production throughout the year.
 
-
-H2 Header
-------------
-
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
-
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
-
-
-A horizontal rule follows.
-
-***
-
-Here's a definition list:
-
-apples
-  : Good for making applesauce.
-
-oranges
-  : Citrus!
-
-tomatoes
-  : There's no "e" in tomatoe.
-
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
-
-Here's a "line block" (note how whitespace is honored):
-
-| Line one
-|   Line too
-| Line tree
-
-and images can be specified like so:
-
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
-
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
+Overall, studying the projected irradiance of a solar panel from different angles and over different timescales is crucial for optimizing its performance and maximizing energy production. With the right tools and data, we can make informed decisions about the design and placement of solar panels to take full advantage of the power of the sun.
